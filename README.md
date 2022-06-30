@@ -3,6 +3,7 @@
 
 [![View <File Exchange Title> on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/####-file-exchange-title)  
 <!-- Add this icon to the README if this repo also appears on File Exchange via the "Connect to GitHub" feature --> 
+ [![View 統計モデリングの教科書: 線形回帰モデル on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/113430)
 
 Linear regression is the simplest and the most frequently used technique by front-line data analysts but it is not straightforward to make the most of the method without having a good interpretation of the output of the model. <br>This content will help fill the gap and you will be able to apply this simplest model to problems before jumping on unnecessarily complecated techniques. <br>The story in the scripts unfolds in a manner of dialogue between two characters: (A) Beginner and (B) Expert denoted by A and B respectively.
 
