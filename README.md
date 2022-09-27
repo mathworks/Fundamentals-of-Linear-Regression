@@ -14,7 +14,7 @@ To Run:
 1. Open the project file "Basicsofstatisticalmodeling1.prj"
 2. Open the main scripts from the shortcut menu: (1) - (3)
 
-### MathWorks Products (http://www.mathworks.com)
+### MathWorks Products (https://www.mathworks.com)
 
 Requires MATLAB release R2022a or newer
 - [MATLAB&reg;](https://www.mathworks.com/products/matlab.html)
