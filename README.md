@@ -16,9 +16,9 @@ To Run:
 
 ### Quick view into the scripts
 
-- [LinearRegression_Part1](./LinearRegression_Part1.md)
-- [LinearRegression_Part2](./LinearRegression_Part2.md)
-- [LinearRegression_Part3](./LinearRegression_Part3.md)
+- [LinearRegression_Part1](./LinearRegression_Part1.md) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=minoue-xx/Fundamentals-of-Linear-Regression&file=./LinearRegression_Part1.mlx)
+- [LinearRegression_Part2](./LinearRegression_Part2.md) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=minoue-xx/Fundamentals-of-Linear-Regression&file=./LinearRegression_Part2.mlx)
+- [LinearRegression_Part3](./LinearRegression_Part3.md) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=minoue-xx/Fundamentals-of-Linear-Regression&file=./LinearRegression_Part3.mlx)
 
 ### MathWorks Products (https://www.mathworks.com)
 
