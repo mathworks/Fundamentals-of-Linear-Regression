@@ -14,6 +14,12 @@ To Run:
 1. Open the project file "Basicsofstatisticalmodeling1.prj"
 2. Open the main scripts from the shortcut menu: (1) - (3)
 
+### Quick view into the scripts
+
+- [LinearRegression_Part1](./LinearRegression_Part1.md)
+- [LinearRegression_Part2](./LinearRegression_Part2.md)
+- [LinearRegression_Part3](./LinearRegression_Part3.md)
+
 ### MathWorks Products (https://www.mathworks.com)
 
 Requires MATLAB release R2022a or newer
