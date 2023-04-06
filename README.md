@@ -7,20 +7,21 @@
 Linear regression is the simplest and the most frequently used technique by front-line data analysts but it is not straightforward to make the most of the method without having a good interpretation of the output of the model. <br>This content will help fill the gap and you will be able to apply this simplest model to problems before jumping on unnecessarily complecated techniques. <br>The story in the scripts unfolds in a manner of dialogue between two characters: (A) Beginner and (B) Expert denoted by A and B respectively.
 
 線形回帰は現場のデータ解析者に最も用いられる、一番シンプルなモデルですが、そのモデルを最大限活用するのは結果の正しい解釈ができなければ簡単では有りません。
-このコンテンツはそのギャップを埋める助けとなり、不必要に複雑なテクニックに飛びつく前に、この最もシンプルなモデルを問題に適用することができるようになることでしょう。スクリプトのストーリーは、2人の登場人物、（A）初心者（B）専門家の対話形式で展開されます：それぞれA、Bで示されます。
+このコンテンツはそのギャップを埋める助けになり、不必要に複雑なテクニックに飛びつく前に、この最もシンプルなモデルを問題に適用することができるようになります。スクリプトのストーリーは、2人の登場人物、（A）初心者（B）専門家の対話形式で展開され、利用者の理解を促します。
+
+## Quick view into the scripts
+
+- [LinearRegression_Part1.md](md_Files/LinearRegression_Part1.md)
+- [LinearRegression_Part2.md](md_Files/LinearRegression_Part2.md)
+- [LinearRegression_Part3.md](md_Files/LinearRegression_Part3.md)
+
+MATLAB Online で実行するには [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/Fundamentals-of-Linear-Regression&file=./LinearRegression_Part1.mlx) をクリック
+
 
 ## Setup 
-To Run:
-1. Open the project file "Basicsofstatisticalmodeling1.prj"
+
+1. Open the project file "FundamentalsOfLinearRegression.prj" by double-clicking it
 2. Open the main scripts from the shortcut menu: (1) - (3)
-
-### Quick view into the scripts
-
-- [LinearRegression_Part1.md](./LinearRegression_Part1.md)
-- [LinearRegression_Part2.md](./LinearRegression_Part2.md)
-- [LinearRegression_Part3.md](./LinearRegression_Part3.md)
-
-MATLAB Online で実行するには [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/Fundamentals-of-Linear-Regression&file=./LinearRegression_Part1.mlx) をクリック。
 
 ### MathWorks Products (https://www.mathworks.com)
 
