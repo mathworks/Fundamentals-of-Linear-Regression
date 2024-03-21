@@ -8,4 +8,10 @@ prj = currentProject;
 % Delete this line if you want to remain in project root folder
 cd(fullfile(prj.RootFolder, ""));
 
-open("LinearRegression_Part1.mlx")
+% Open JP if it is in JP
+enOrJp = feature('locale');
+if contains(string(enOrJp.messages),"JP")
+    open("LinearRegression_Part1.mlx")
+else
+    open("LinearRegression_Part1_en.mlx")
+end

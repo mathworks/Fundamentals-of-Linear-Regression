@@ -4,6 +4,7 @@
 [![View 統計モデリングの教科書: 線形回帰モデル on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/114360)
 <!-- Add this icon to the README if this repo also appears on File Exchange via the "Connect to GitHub" feature --> 
 
+(Both English and Japanese available!) <br>
 Linear regression is the simplest and the most frequently used technique by front-line data analysts but it is not straightforward to make the most of the method without having a good interpretation of the output of the model. <br>This content will help fill the gap and you will be able to apply this simplest model to problems before jumping on unnecessarily complecated techniques. <br>The story in the scripts unfolds in a manner of dialogue between two characters: (A) Beginner and (B) Expert denoted by A and B respectively.
 
 線形回帰は現場のデータ解析者に最も用いられる、一番シンプルなモデルですが、そのモデルを最大限活用するのは結果の正しい解釈ができなければ簡単では有りません。
@@ -25,7 +26,7 @@ MATLAB Online で実行するには [![Open in MATLAB Online](https://www.mathwo
 
 ### MathWorks Products (https://www.mathworks.com)
 
-Requires MATLAB release R2022a or newer
+Requires MATLAB release R2022a or later
 - [MATLAB&reg;](https://www.mathworks.com/products/matlab.html)
 - [Statistics and Machine Learning Toolbox&trade;](https://www.mathworks.com/products/statistics.html)
 - [Econometric Toolbox&trade;](https://www.mathworks.com/products/econometrics.html)

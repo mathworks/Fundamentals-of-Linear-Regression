@@ -8,4 +8,10 @@ prj = currentProject;
 % Delete this line if you want to remain in project root folder
 cd(fullfile(prj.RootFolder, ""));
 
-open("LogLikelihood.mlx")
+% Open JP if it is in JP
+enOrJp = feature('locale');
+if contains(string(enOrJp.messages),"JP")
+    open("LogLikelihood.mlx.mlx")
+else
+    open("LogLikelihood.mlx_en.mlx")
+end
